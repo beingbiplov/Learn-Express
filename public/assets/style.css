@@ -1,0 +1,24 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.main {
+    text-align: center;
+}
+
+.main h2 {
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#clickme {
+    padding: 12px 26px;
+    background-color: aquamarine;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 10px;
+}
